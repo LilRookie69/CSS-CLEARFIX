@@ -16,6 +16,8 @@
 .cf {
     *zoom: 1;
 }
+
+/** CLEAR FIX **/
 ```
 
 SOURCE : http://nicolasgallagher.com/micro-clearfix-hack/
